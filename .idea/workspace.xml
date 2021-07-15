@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="03a0090c-f5c6-4ddd-b7c0-06a80e5add2c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/case_study_module2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Controller/ProductController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Controller/UserController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Model/DBConnect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Model/Product.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Model/ProductModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Model/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Model/UserModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/View/card.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/View/core/content.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/View/core/profile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/View/core/sidebar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/View/create.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/View/list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/View/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/View/signUp.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/View/update.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/all.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/dashboard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/login-new.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/login.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/images/login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/router.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/router2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/anh1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/anh10.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/anh2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/anh3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/anh4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/anh5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/anh6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/anh7.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/anh8.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/anh9.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/autoload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/.github/ISSUE_TEMPLATE/bug_report.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/.github/ISSUE_TEMPLATE/feature_request.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/admin/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/buttons.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin/buttons.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/dist/all.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/dist/images/dashboard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/dist/images/login-new.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/dist/images/login.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/dist/images/login.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/dist/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/forms.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin/forms.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/modals.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin/modals.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/tables.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin/tables.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/ui.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin/ui.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/app/Controller/ProductController.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/app/View/login.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/app/Model/UserModel.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/app/Model/User.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/admin/login.html" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/app/Model/ProductModel.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/app/View/update.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/app/View/create.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/app/Model/DBConnect.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/app/View/list.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/app/Model/Product.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/home.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/index.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1v2VIzEjBVZ7Ae23KCzAnDvJmPq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../thi-module2" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/View" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/View" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/admin" />
+      <recent name="$PROJECT_DIR$/admin/dist" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03a0090c-f5c6-4ddd-b7c0-06a80e5add2c" name="Default Changelist" comment="" />
+      <created>1625760095159</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625760095159</updated>
+      <workItem from="1625760096404" duration="2091000" />
+      <workItem from="1625792679770" duration="17651000" />
+      <workItem from="1625833037028" duration="7532000" />
+      <workItem from="1625889966991" duration="9264000" />
+      <workItem from="1625918925484" duration="1627000" />
+      <workItem from="1625922810457" duration="19884000" />
+      <workItem from="1625975620541" duration="32790000" />
+      <workItem from="1626050825676" duration="30349000" />
+      <workItem from="1626088106817" duration="14135000" />
+      <workItem from="1626138664086" duration="14297000" />
+      <workItem from="1626180310604" duration="13533000" />
+      <workItem from="1626195889819" duration="159000" />
+      <workItem from="1626227844598" duration="1209000" />
+      <workItem from="1626232643690" duration="14000" />
+      <workItem from="1626234021431" duration="600000" />
+      <workItem from="1626237511852" duration="11637000" />
+      <workItem from="1626249605216" duration="1984000" />
+      <workItem from="1626258467281" duration="93000" />
+      <workItem from="1626311920011" duration="1653000" />
+      <workItem from="1626313929078" duration="99000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
